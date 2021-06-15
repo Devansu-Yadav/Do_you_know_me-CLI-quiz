@@ -13,6 +13,10 @@
 
 <img align="center" alt="CLI app" src="./img/CLI_app_img.png"/>
 
+## 🚀Features
+- Beautiful and Interactive CLI built using [CHALK](https://www.npmjs.com/package/chalk) library.
+- You can create your own custom quiz easily!
+
 ## 🦋 Prerequisite for running on local
 - [Nodejs & Npm](https://nodejs.org/en/) Installed
 <br></br>
@@ -40,3 +44,8 @@ node know_me_CLI_quiz.js
 ## 👷 Built with
 
 - [JavaScript(Nodejs)](https://nodejs.org/en/ "Javascript"): for the CLI quiz.
+
+## How to create your custom quiz?
+- Open the `know_me_CLI_quiz.js` file in the `src` folder.
+- Update the `questionsArray` to add your questions and answers!
+- That's it! Now go ahead and tell your best friends to play the CLI quiz:)

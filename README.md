@@ -12,10 +12,9 @@
 ## Images/Screenshots
 
 <img align="center" alt="CLI app" src="./img/CLI_app_img.png"/>
-<br></br>
 
 ## 🦋 Prerequisite for running on local
-- [Nodejs](https://nodejs.org/en/) Installed
+- [Nodejs & Npm](https://nodejs.org/en/) Installed
 <br></br>
 
 ## 🛠️ Installation Steps
